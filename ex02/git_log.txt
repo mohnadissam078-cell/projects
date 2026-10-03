@@ -1,0 +1,102 @@
+commit 5a1f71a58fee5bb0a1d418b3ff7a2f95944850a5
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 13:27:13 2026 +0300
+
+    this is my hello file
+
+commit 939cb76ee8aa98d85dc3d81ea31a02a5bd35d337
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:19:20 2026 +0300
+
+    this is my sec ec
+
+commit c9e1c384f3f699d5ecd84301c6e04d4142f861a3
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:13:09 2026 +0300
+
+    remove ex03
+
+commit 185f115e71b576ca01edf6f8102b182f4581df64
+Author: mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:11:00 2026 +0300
+
+    Delete hello.txt
+
+commit 0ff690b108f2842f878c594fe94328b45c1a9c02
+Author: mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:10:49 2026 +0300
+
+    Delete git_workflows.txt
+
+commit 98454069ed8091a6c31c970fdcdec1474f284ad8
+Author: mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:10:34 2026 +0300
+
+    Delete README.md
+
+commit 5e57b34adb32873b67dfd6da550ad757b5bcca1f
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 12:01:20 2026 +0300
+
+    this is my 1st ex
+
+commit cb04dc9da3c0e86d72129109a012834d8c4dea6f
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Sat Oct 3 11:57:34 2026 +0300
+
+    this is my 3ed ex
+
+commit e03dc301aa72fe5ea32b5b9c50a501f8b38194cd
+Author: mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 18:52:36 2026 +0300
+
+    Delete ex03.pub
+
+commit b150596405b0d71668cf7b7c3836f05ac7462d01
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 18:22:03 2026 +0300
+
+    add public key
+
+commit 6c19e148994171e4bdddb48ce402cb534e10d1af
+Merge: fdc54d9 a24a092
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 16:56:05 2026 +0300
+
+    Merge branch 'main' of https://github.com/mohnadissam078-cell/discovery-web-piscine
+
+commit fdc54d996f4bccf784cfc59701c1fd11f429429d
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 16:42:43 2026 +0300
+
+    add README
+
+commit 1bc8b43935f147fd1fa76068ab57c7f2e813a8c7
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 16:40:13 2026 +0300
+
+    add README
+
+commit fd806d4a0d138951a455cb322a831c8f1cd2e3bd
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 16:22:48 2026 +0300
+
+    this is the structure
+
+commit ee28da7c8734b3f2d4edd0468b70f54ea10c3939
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Fri Oct 2 16:15:56 2026 +0300
+
+    this is my git_workflows.txt
+
+commit a418d753b61d81b3949bd9c63d1a1151ada560b8
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Thu Oct 1 17:03:30 2026 +0300
+
+    add git workflow file
+
+commit a24a0920665ecbe10fdef670459cdcac4fdc4328
+Author: Mohnnad <mohnad.issam078@gmail.com>
+Date:   Thu Oct 1 10:46:53 2026 +0300
+
+    Add hello.txt
