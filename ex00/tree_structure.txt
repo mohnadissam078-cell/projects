@@ -1,40 +1,40 @@
-dev_workspace:
+./dev_workspace:
 total 0
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 53 Sep 30 14:43 ..
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 projects
+drwxr-xr-x 5 msaed _amman 51 Oct  4 12:37 .
+drwxr-xr-x 3 msaed _amman 53 Oct  4 12:41 ..
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:37 archives
+drwxr-xr-x 3 msaed _amman 17 Oct  4 12:38 projects
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:37 tools
 
-dev_workspace/projects:
+./dev_workspace/archives:
 total 0
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 ..
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 web
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:37 .
+drwxr-xr-x 5 msaed _amman 51 Oct  4 12:37 ..
 
-dev_workspace/projects/web:
+./dev_workspace/projects:
 total 0
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 ..
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 frontend
+drwxr-xr-x 3 msaed _amman 17 Oct  4 12:38 .
+drwxr-xr-x 5 msaed _amman 51 Oct  4 12:37 ..
+drwxr-xr-x 4 msaed _amman 37 Oct  4 12:38 web
 
-dev_workspace/projects/web/frontend:
+./dev_workspace/projects/web:
 total 0
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 ..
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 projects
+drwxr-xr-x 4 msaed _amman 37 Oct  4 12:38 .
+drwxr-xr-x 3 msaed _amman 17 Oct  4 12:38 ..
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:38 backend
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:38 frontend
 
-dev_workspace/projects/web/frontend/projects:
+./dev_workspace/projects/web/backend:
 total 0
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 22 Sep 30 14:30 ..
-drwxr-xr-x 3 msaed _amman 21 Sep 30 14:30 web
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:38 .
+drwxr-xr-x 4 msaed _amman 37 Oct  4 12:38 ..
 
-dev_workspace/projects/web/frontend/projects/web:
+./dev_workspace/projects/web/frontend:
 total 0
-drwxr-xr-x 3 msaed _amman 21 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 17 Sep 30 14:30 ..
-drwxr-xr-x 2 msaed _amman  6 Sep 30 14:30 backend
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:38 .
+drwxr-xr-x 4 msaed _amman 37 Oct  4 12:38 ..
 
-dev_workspace/projects/web/frontend/projects/web/backend:
+./dev_workspace/tools:
 total 0
-drwxr-xr-x 2 msaed _amman  6 Sep 30 14:30 .
-drwxr-xr-x 3 msaed _amman 21 Sep 30 14:30 ..
+drwxr-xr-x 2 msaed _amman  6 Oct  4 12:37 .
+drwxr-xr-x 5 msaed _amman 51 Oct  4 12:37 ..
